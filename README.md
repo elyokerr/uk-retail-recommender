@@ -51,8 +51,8 @@ An online retailer with thousands of products wants to show each returning custo
 Runs with no downloads or secrets (uses the committed sample). Needs Python 3.11.
 
 ```bash
-git clone https://github.com/elyokerr/Projects.git
-cd Projects/uk-retail-recommender
+git clone https://github.com/elyokerr/uk-retail-recommender.git
+cd uk-retail-recommender
 
 python -m venv .venv
 .venv\Scripts\activate          # Windows. On macOS/Linux: source .venv/bin/activate
